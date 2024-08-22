@@ -1,0 +1,5 @@
+# Ignore the Proffile file
+Procfile
+
+# Ignore the venv folder
+venv/
